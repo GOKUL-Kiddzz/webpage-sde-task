@@ -1,0 +1,51 @@
+.container {
+  margin: 10%;
+  height: 1024px;
+  width: 1024px;
+  background-color: powderblue;
+  border: solid;
+}
+.box {
+  border: solid;
+  background-color: white;
+  height: 600px;
+  width: 700px;
+  margin: 16%;
+}
+.h {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bolder;
+  margin-bottom: 12%;
+  margin-top: 8%;
+}
+.w {
+  align-items: center;
+}
+.textarea {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  resize: both;
+  min-height: 40px;
+  line-height: 20px;
+}
+.button {
+  margin: 10%;
+  padding: 20%;
+}
+.s {
+  align-items: center;
+  margin: 10%;
+  margin-left: 44%;
+  align-content: center;
+  align-self: center;
+  border-radius: 5px;
+}
+.go {
+  text-align: center;
+  margin: 10%;
+}
+.button {
+  color: black;
+}

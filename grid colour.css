@@ -1,0 +1,23 @@
+.container {
+  margin-top: 50px;
+}
+
+.col {
+  background-color: pink;
+  width: 100px;
+  height: 125px;
+}
+
+.aa {
+  background-color: #fc034e;
+}
+
+.b {
+  background-color: blue;
+}
+.c {
+  background-color: green;
+}
+.d {
+  background-color: orange;
+}
